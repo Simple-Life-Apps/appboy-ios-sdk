@@ -18,4 +18,4 @@ xcuserdata/
 **/fastlane/report.xml
 
 # XCFrameworks
-*.xcframework
+#*.xcframework
